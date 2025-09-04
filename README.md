@@ -3,7 +3,7 @@
 
 
 ## 👨🏻‍💻 ABOUT ME 
-### Francis Sibal | Data Analyst
+### Francis Yobel Sibal | Data Analyst
 
 Detail-Oriented Professional with a background in Engineering and Data Analytics, with 1 year of experience working with metrics data in the manufacturing industry.
 Specializing in data manipulation and analysis using SQL, Python, Microsoft Excel and Power BI for data visualization, building interactive dashboards and performance reports.
