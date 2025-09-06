@@ -22,7 +22,7 @@ Specializing in data manipulation and analysis using SQL, Python, Microsoft Exce
   
   This repository contains the end-to-end analysis of a credit card transaction dataset to identify and predict instances of fraud. The project combines SQL, and Microsoft Power BI for exploratory data analysis and visualization, with a focus on understanding fraud risk patterns and informing fraud prevention strategies.
     * *Tools: SQL, Power BI, MySQL*
-* **[Web Scraping & ETL Pipeline for Global Bank Data](https://github.com/francissibal/Worlds-Largest-Banks-ETL)**
+* **[Web Scraping & ETL Project: World's Largest Banks by Market Capitalization](https://github.com/francissibal/Worlds-Largest-Banks-ETL)**
   
   This project features a complete ETL (Extract, Transform, Load) pipeline built in Python. It automatically scrapes data on the world's largest banks from a live Wikipedia page, processes and transforms the data using Pandas to include multiple currency conversions, and then loads the results into a CSV file and a SQLite database.
     * *Tools: Python, requests, BeautifulSoup, pandas, SQLite*
