@@ -28,7 +28,7 @@ Specializing in data manipulation and analysis using SQL, Python, Microsoft Exce
   This project features a complete ETL (Extract, Transform, Load) pipeline built in Python. It automatically scrapes data on the world's largest banks from a live Wikipedia page, processes and transforms the data using Pandas to include multiple currency conversions, and then loads the results into a    CSV file and a SQLite database.
     * *Tools: Python, requests, BeautifulSoup, pandas, SQLite*
 
-* **[Global Super Store Sales & Profitability Dashboard]()**
+* **[Global Super Store Sales & Profitability Dashboard](https://github.com/francissibal/GlobalSuperStore)**
 
   A comprehensive sales dashboard providing a 360-degree view of a global retailer's performance. It visualizes $12.64M in sales by tracking monthly trends, segmenting performance by market and customer type, and offering actionable insights into profitability by highlighting profit margins and          top/bottom performing products.
     * *Tools: Python, Power BI*
