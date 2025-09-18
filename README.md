@@ -23,6 +23,7 @@ Specializing in data manipulation and analysis using SQL, Python, Microsoft Exce
 
    This repository contains the end-to-end analysis of a credit card transaction dataset to identify and predict instances of fraud. The project combines SQL, and Microsoft Power BI for exploratory data analysis and visualization, with a focus on understanding fraud risk patterns and informing fraud       prevention strategies.
     * *Tools: SQL, Power BI, MySQL*
+
 ![PowerBIPreview1](CreditCardFraud-Dashboard-1.png)
 
 
@@ -62,6 +63,7 @@ Specializing in data manipulation and analysis using SQL, Python, Microsoft Exce
   
   A comprehensive sales dashboard providing a 360-degree view of a global retailer's performance. It visualizes $12.64M in sales by tracking monthly trends, segmenting performance by market and customer type, and offering actionable insights into profitability by highlighting profit margins and top/bottom performing products.
     * *Tools: Python, Power BI*
+      
 ![PowerBIPreview1](GSS_Dashboard.png)
 
 
@@ -80,6 +82,7 @@ Specializing in data manipulation and analysis using SQL, Python, Microsoft Exce
   This project analyzes BMW’s global sales data from 2010 to 2024, uncovering insights into revenue growth, regional sales performance, model profitability, and customer preferences. It includes data cleaning, exploratory analysis, and business recommendations supported by visualizations.
     * *Tools: Python, pandas, matplotlib, seaborn, Jupyter Notebook*
 
+![PowerBIPreview1](BMW_Revenue_Yearly.png)
 
 
 
