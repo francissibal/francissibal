@@ -39,14 +39,15 @@ Specializing in data manipulation and analysis using SQL, Python, Microsoft Exce
   
   This project features a complete ETL (Extract, Transform, Load) pipeline built in Python. It automatically scrapes data on the world's largest banks from a live Wikipedia page, processes and transforms the data using Pandas to include multiple currency conversions, and then loads the results into a    CSV file and a SQLite database.
     * *Tools: Python, requests, BeautifulSoup, pandas, SQLite*
-   #### Data Sample: World's Largest Banks by Market Capitalization
-   | Rank | Name                                    | MC_USD_Billion | MC_GBP_Billion | MC_EUR_Billion | MC_INR_Billion |
-   |------|-----------------------------------------|----------------|----------------|----------------|----------------|
-   | 1    | JPMorgan Chase                          | 599.931        | 479.94         | 557.94         | 49992.25       |
-   | 2    | Bank of America                         | 307.900        | 246.32         | 286.35         | 25657.31       |
-   | 3    | Industrial and Commercial Bank of China | 303.543        | 242.83         | 282.29         | 25294.24       |
-   | 4    | Agricultural Bank of China              | 232.836        | 186.27         | 216.54         | 19402.22       |
-   | 5    | Bank of China                           | 209.295        | 167.44         | 194.64         | 17440.55       |
+
+#### Transformed Data: World's Largest Banks by Market Capitalization
+| Rank | Name                                    | MC_USD_Billion | MC_GBP_Billion | MC_EUR_Billion | MC_PHP_Billion |
+|------|-----------------------------------------|----------------|----------------|----------------|----------------|
+| 1    | JPMorgan Chase                          | 599.931        | 479.94         | 557.94         | 34796.00       |
+| 2    | Bank of America                         | 307.900        | 246.32         | 286.35         | 17858.20       |
+| 3    | Industrial and Commercial Bank of China | 303.543        | 242.83         | 282.29         | 17605.49       |
+| 4    | Agricultural Bank of China              | 232.836        | 186.27         | 216.54         | 13504.49       |
+| 5    | Bank of China                           | 209.295        | 167.44         | 194.64         | 12139.11       |
 
 
 
