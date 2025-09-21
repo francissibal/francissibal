@@ -95,6 +95,8 @@ Specializing in data manipulation and analysis using SQL, Python, Microsoft Exce
 
 This repository contains the end-to-end analysis of a global stock market index dataset. The project utilizes MySQL for data storage and querying, and Microsoft Power BI for comprehensive data visualization and interactive dashboard creation, with a focus on analyzing long-term performance and market trends.
 
+*This project is currently ongoing, with plans to include more advanced features and analysis in the future.*
+
  * *Tools: SQL, Power BI, MySQL*
    
 ![PowerBIPreview2](StockIndexDash.png)
