@@ -38,7 +38,7 @@ Specializing in data manipulation and analysis using SQL, Python, Microsoft Exce
 * **[Automated Data Pipeline: World's Largest Banks](https://github.com/francissibal/Worlds-Largest-Banks-ETL)**
   
   This project features a complete ETL (Extract, Transform, Load) pipeline built in Python. It automatically scrapes data on the world's largest banks from a live Wikipedia page, processes and transforms the data using Pandas to include multiple currency conversions, and then loads the results into a    CSV file and a SQLite database.
-    * *Tools: Python, requests, BeautifulSoup, pandas, SQLite*
+    * *Tools: Python, requests, BeautifulSoup, pandas, SQL, SQLite*
 
 #### Transformed Data: World's Largest Banks by Market Capitalization
 | Rank | Name                                    | MC_USD_Billion | MC_GBP_Billion | MC_EUR_Billion | MC_PHP_Billion |
@@ -91,6 +91,15 @@ Specializing in data manipulation and analysis using SQL, Python, Microsoft Exce
 ---
 
 
+* **[Global Stock Index Performance Analysis Dashboard](https://github.com/francissibal/IndexStockDashboard)**
+
+This repository contains the end-to-end analysis of a global stock market index dataset. The project utilizes MySQL for data storage and querying, and Microsoft Power BI for comprehensive data visualization and interactive dashboard creation, with a focus on analyzing long-term performance and market trends.
+
+ * *Tools: SQL, Power BI, MySQL*
+   
+![PowerBIPreview2](StockIndexDash.png)
+
+---
 
 
 
